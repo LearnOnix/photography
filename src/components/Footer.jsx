@@ -48,7 +48,7 @@ const Footer = () => {
         </div>
       </div>
       <div>
-        <a href="https://github.com/talaganaRajesh" target='blank'><h1 className='text-white transition-opacity duration-300 hover:opacity-100 cursor-pointer opacity-50 text-center pb-5'>Made bith 💗 By Rajesh</h1></a>
+        <a href="https://github.com/sudosuryadeep" target='blank'><h1 className='text-white transition-opacity duration-300 hover:opacity-100 cursor-pointer opacity-50 text-center pb-5'>Made bith 💗 By Suryadeep</h1></a>
       </div>
     </footer>
   );
