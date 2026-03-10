@@ -60,7 +60,7 @@ const ContactPage = () => {
                 <Mail className="text-blue-500" size={36} />
                 <div>
                   <p className="font-semibold">Email</p>
-                  <p className="text-gray-300">talaganarajesh@gmail.com</p>
+                  <p className="text-gray-300">suryadeep.inc@gmail.com</p>
                 </div>
               </div>
               
@@ -68,7 +68,7 @@ const ContactPage = () => {
                 <Phone className="text-green-500" size={36} />
                 <div>
                   <p className="font-semibold">Phone</p>
-                  <p className="text-gray-300">9698544425</p>
+                  <p className="text-gray-300">7571952689</p>
                 </div>
               </div>
               
